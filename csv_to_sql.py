@@ -23,6 +23,8 @@ database_title = input("What is the title of your table? (NO SPACES! USE UNDERSC
 
 import_file(database_name, database_title)
 
+print("-- END OF PROGRAM --")
+
 
 
 

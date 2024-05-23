@@ -9,7 +9,7 @@ def import_file(filename, title):
         df = pd.read_csv(filepath)
         conn = sqlite3.connect(filename)
         df.to_sql(title, conn, if_exists='replace', index=False)
-        print("Your table was successfully created as 'table.db.")
+        print("Your table was successfully created.")
         conn.close()
     else:
         if not os.path.exists(filepath):

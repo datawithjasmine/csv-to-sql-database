@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-[Project Overview](#project-overview)\
-[Limitations](#limitations)\
-[Use Case](#use-case)
+- Project Overview
+- Limitations
+- Use Case
 
 ### Project Overview
 

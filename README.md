@@ -3,7 +3,7 @@
 ## Table of Contents
 
 [Project Overview](#project-overview)\
-[Limitations](#limitations)
+[Limitations](#limitations)\
 [Use Case](#use-case)
 
 ### Project Overview
